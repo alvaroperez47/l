@@ -5,7 +5,7 @@ public class clase {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String nombre="c";
-		String nombre1="b";
+		
 	}
 
 }
